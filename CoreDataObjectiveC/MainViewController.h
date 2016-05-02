@@ -11,5 +11,6 @@
 
 @interface MainViewController : UITableViewController
 
+-(void)reloadData;
 
 @end
